@@ -161,7 +161,7 @@
   </tr>
 </table>
 
-> <i>"Shaswat consistently demonstrates exceptional problem-solving abilities and technical depth. His thoughtful approach to engineering challenges and ability to communicate complex concepts make him a standout talent."</i> — <b>Prof. Julia Vogt, Medical Data Science Group, ETH Zurich</b>
+> <i>"I had the opportunity to work closely with Shaswat and was consistently impressed by his technical depth and problem-solving skills."</i> — <b>Tomoko Yokoi, AI & Digital Transformation | Transitions | Future of Work</b>
 
 ---
 
@@ -193,6 +193,8 @@
   <i>Open to ML engineering and research roles</i><br>
   <b>Based in Zurich, Switzerland</b>
 </p>
+
+> <i>"I've had the privilege of working closely with Shaswat and can unequivocally state that his ability to dissect and solve complex problems is second to none."</i> — <b>Alex Biermann, Senior Manager - Supply Chain Transformation</b>
 
 ---
 
