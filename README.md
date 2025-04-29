@@ -61,7 +61,7 @@
       <br><i>SSL • CNN • Transformers • Attention</i>
     </td>
     <td width="33%" align="center">
-      <a href="https://www.zuehlke.com/en/insights/ais-tangible-business-impact-5-key-learnings-from-zuhlke-eth-zurich" target="_blank">
+      <a href="https://shaswat-g.github.io/projects/research_assitantship/" target="_blank">
         <img src="https://shaswat-g.github.io/assets/images/projects/ethz.jpg" alt="Enterprise ML Research" width="180" style="border-radius:0.7em;"/>
         <br>
         <b>Enterprise ML Research</b>
