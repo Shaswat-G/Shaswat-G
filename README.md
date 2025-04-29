@@ -184,13 +184,13 @@
 ## Get In Touch
 
 <p align="center">
-  <a href="mailto:shagupta@ethz.ch"><img src="https://img.shields.io/badge/Email-shagupta@ethz.ch-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://shaswat-g.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-Visit-181717?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/shaswat-gupta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Shaswat-G" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:shagupta@ethz.ch"><img src="https://img.shields.io/badge/Email-shagupta@ethz.ch-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <i>Open to research, quant, and ML engineering roles</i><br>
+  <i>Open to ML engineering and research roles</i><br>
   <b>Based in Zurich, Switzerland</b>
 </p>
 
