@@ -43,7 +43,7 @@
 <table align="center" border="0">
   <tr>
     <td width="33%" align="center">
-      <a href="https://gitlab.ethz.ch/shagupta/simplesleepnet" target="_blank">
+      <a href="https://shaswat-g.github.io/projects/simple_sleep_net/" target="_blank">
         <img src="https://shaswat-g.github.io/assets/images/projects/dnn.jpg" alt="SimpleSleepNet" width="180" style="border-radius:0.7em;"/>
         <br>
         <b>SimpleSleepNet</b>
@@ -52,7 +52,7 @@
       <br><i>PyTorch • Signal Processing • Edge AI</i>
     </td>
     <td width="33%" align="center">
-      <a href="https://github.com/RaphaelKreft/DeepLearningProject" target="_blank">
+      <a href="https://shaswat-g.github.io/projects/neural_latent_representations/" target="_blank">
         <img src="https://shaswat-g.github.io/assets/images/projects/latent.jpg" alt="DeepSleepBench" width="180" style="border-radius:0.7em;"/>
         <br>
         <b>DeepSleepBench</b>
@@ -89,7 +89,7 @@
 <table>
   <tr>
     <td width="70%">
-      <a href="/publications/simplesleepnet" target="_blank"><b>Self-Supervised Contrastive Learning for EEG-Based Sleep Stage Classification</b></a><br>
+      <a href="https://shaswat-g.github.io/projects/simple_sleep_net/" target="_blank"><b>Self-Supervised Contrastive Learning for EEG-Based Sleep Stage Classification</b></a><br>
       How I engineered a lightweight deep learning framework achieving 80%+ accuracy with <1MB model size using specialized signal augmentations and contrastive learning techniques.
     </td>
     <td width="30%" align="center">
@@ -107,7 +107,7 @@
   </tr>
   <tr>
     <td width="70%">
-      <a href="/analyses/ai_ecosystem" target="_blank"><b>AI at the Helm: Strategic Signals from the 2025 Stanford Index</b></a><br>
+      <a href="https://shaswat-g.github.io/analyses/" target="_blank"><b>AI at the Helm: Strategic Signals from the 2025 Stanford Index</b></a><br>
       Benchmark breakthroughs, investment surges, global policy shifts, and the signals shaping the future of intelligence, innovation, and influence.
     </td>
     <td width="30%" align="center">
@@ -116,7 +116,7 @@
   </tr>
   <tr>
     <td width="70%">
-      <a href="/analyses/swiss-startup-ecosystem" target="_blank"><b>Switzerland's AI Engine: How ETH Zurich Became Europe's Deeptech Powerhouse</b></a><br>
+      <a href="https://shaswat-g.github.io/analyses/" target="_blank"><b>Switzerland's AI Engine: How ETH Zurich Became Europe's Deeptech Powerhouse</b></a><br>
       An in-depth exploration of Switzerland's AI ecosystem and ETH Zurich's outsized role in it—where research excellence, entrepreneurial density, and investor discipline converge.
     </td>
     <td width="30%" align="center">
@@ -125,7 +125,7 @@
   </tr>
   <tr>
     <td width="70%">
-      <a href="/analyses/full-stack-trajectory" target="_blank"><b>The AI Stack 2030: From Silicon to AI Agents</b></a><br>
+      <a href="https://shaswat-g.github.io/analyses/" target="_blank"><b>The AI Stack 2030: From Silicon to AI Agents</b></a><br>
       A full-stack, forward-looking thesis on where AI is headed—from compute hardware and model architectures to agentic apps and industry disruption.
     </td>
     <td width="30%" align="center">
