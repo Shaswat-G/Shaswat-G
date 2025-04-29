@@ -1,44 +1,209 @@
-# 👋 Hey there! I'm Shaswat Gupta  
+<!--
+  GitHub Profile README for Shaswat Gupta
+  Focus: ML Engineering, Quantitative Models, Elegant Code, Recruiter-Optimized
+-->
 
-### MSc Computer Science @ ETH Zurich | IIT Bombay (Rank 1, Gold Medalist)  
-### ML Engineer | Ex-World Bank, Budweiser, ISB  
+<p align="center">
+  <img src="https://shaswat-g.github.io/assets/images/background.jpg" alt="Banner" width="100%" style="border-radius: 1em;"/>
+</p>
 
-🚀 Passionate about **Machine Learning, AI Research, Scalable Engineering Solutions, and Quantitative Analytics**  
+<h1 align="center">Hi, I'm Shaswat Gupta</h1>
 
----
-
-## 📌 About Me  
-- 🎓 **Master’s Student** at **ETH Zurich**, specializing in **Machine Learning & AI**  
-- 🏅 **Rank 1 & Gold Medalist** from **IIT Bombay** (9.6/10 GPA)  
-- 🧠 **ML Engineer & Data Scientist**, previously at **AB InBev, World Bank, ISB, Glenmark Pharma, Rephrase AI**  
-- 🌍 **International Exposure** across **Harvard HPAIR, Princeton Business Today, ETH Zurich Exchange**  
-- 🛠️ Always eager to **solve complex problems** through **data, algorithms, and scalable software**  
-
----
-
-## 🛠️ Skills  
-
-### 🔹 **Programming & Development**  
-- **Languages**: Python, C++, Java, SQL  
-- **Software & Cloud**: Docker, Kubernetes, GCP, Azure, Power BI, Tableau  
-- **Version Control**: Git, GitHub, GitLab  
-
-### 🔹 **Machine Learning & AI**  
-- **Deep Learning**: TensorFlow, PyTorch, Scikit-learn, Keras  
-- **NLP**: Transformer Models, BERT, GPT, TF-IDF  
-- **Data Science**: Time Series Forecasting, Recommendation Systems, A/B Testing  
-- **Optimization**: Reinforcement Learning, Game Theory, Bayesian Optimization  
-
-### 🔹 **Data Engineering & Analytics**  
-- **Big Data**: Apache Spark, SQL, Pandas  
-- **Visualization**: Matplotlib, Seaborn, Tableau, Power BI  
+<p align="center">
+  <b>ML engineer passionate about intelligent systems and elegant code.</b><br>
+  Building production-ready AI systems from self-supervised learning models to efficient data processing pipelines.
+</p>
 
 ---
 
-## 📫 Let's Connect  
+## Tech Stack & Expertise
 
-📍 Based in **Zurich, Switzerland**  
-📩 Reach me at **shagupta@ethz.ch**  
-🔗 LinkedIn: [shaswat-gupta](https://www.linkedin.com/in/shaswat-gupta/)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QuantLib-1A237E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gurobi-ED1C24?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-🚀 Always open to **collaborations, research discussions, and innovative ideas!**  
+**Core Competencies:**
+
+- **Machine Learning & AI:** Deep learning architectures, self-supervised learning, optimization models, LLMs
+- **Specialized Engineering:** Production systems, time-series forecasting, optimization problems
+- **Data Engineering:** Production pipelines, MLOps, distributed computing
+- **Languages & Tools:** Python/C++, PyTorch/TensorFlow, Gurobi/PuLP, Docker/Kubernetes
+
+---
+
+## Featured Projects
+
+<table align="center" border="0">
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://gitlab.ethz.ch/shagupta/simplesleepnet" target="_blank">
+        <img src="https://shaswat-g.github.io/assets/images/projects/dnn.jpg" alt="SimpleSleepNet" width="180" style="border-radius:0.7em;"/>
+        <br>
+        <b>SimpleSleepNet</b>
+      </a>
+      <br>Self-supervised contrastive learning for EEG classification
+      <br><i>PyTorch • Signal Processing • Edge AI</i>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/RaphaelKreft/DeepLearningProject" target="_blank">
+        <img src="https://shaswat-g.github.io/assets/images/projects/latent.jpg" alt="DeepSleepBench" width="180" style="border-radius:0.7em;"/>
+        <br>
+        <b>DeepSleepBench</b>
+      </a>
+      <br>Benchmarking neural latent representations for EEG
+      <br><i>SSL • CNN • Transformers • Attention</i>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://www.zuehlke.com/en/insights/ais-tangible-business-impact-5-key-learnings-from-zuhlke-eth-zurich" target="_blank">
+        <img src="https://shaswat-g.github.io/assets/images/projects/ethz.jpg" alt="Enterprise ML Research" width="180" style="border-radius:0.7em;"/>
+        <br>
+        <b>Enterprise ML Research</b>
+      </a>
+      <br>Data engineering for ML adoption across 600+ enterprises
+      <br><i>ETH Zurich • Data Pipeline • Analytics</i>
+    </td>
+  </tr>
+</table>
+
+### Project Architecture Highlights
+
+<p align="center">
+  <img src="https://shaswat-g.github.io/assets/images/projects/simplesleepnet-architecture.svg" alt="SimpleSleepNet Architecture" width="80%" style="max-width:800px"/>
+</p>
+
+---
+
+## Featured Publications & Articles
+
+<p align="center">
+  <a href="/analyses/" class="btn btn--primary">View All Publications</a>
+</p>
+
+<table>
+  <tr>
+    <td width="70%">
+      <a href="/publications/simplesleepnet" target="_blank"><b>Self-Supervised Contrastive Learning for EEG-Based Sleep Stage Classification</b></a><br>
+      How I engineered a lightweight deep learning framework achieving 80%+ accuracy with <1MB model size using specialized signal augmentations and contrastive learning techniques.
+    </td>
+    <td width="30%" align="center">
+      ETH Zurich<br>2025
+    </td>
+  </tr>
+  <tr>
+    <td width="70%">
+      <a href="https://www.zuehlke.com/en/insights/ais-tangible-business-impact-5-key-learnings-from-zuhlke-eth-zurich" target="_blank"><b>AI's Tangible Business Impact: 5 Key Learnings</b></a><br>
+      Analysis of enterprise ML/AI adoption patterns across industries, derived from research collaboration between ETH Zurich and Zühlke.
+    </td>
+    <td width="30%" align="center">
+      Zühlke & ETH Zurich<br>2024
+    </td>
+  </tr>
+  <tr>
+    <td width="70%">
+      <a href="/analyses/ai_ecosystem" target="_blank"><b>AI at the Helm: Strategic Signals from the 2025 Stanford Index</b></a><br>
+      Benchmark breakthroughs, investment surges, global policy shifts, and the signals shaping the future of intelligence, innovation, and influence.
+    </td>
+    <td width="30%" align="center">
+      <i>AI Strategy</i><br>2025
+    </td>
+  </tr>
+  <tr>
+    <td width="70%">
+      <a href="/analyses/swiss-startup-ecosystem" target="_blank"><b>Switzerland's AI Engine: How ETH Zurich Became Europe's Deeptech Powerhouse</b></a><br>
+      An in-depth exploration of Switzerland's AI ecosystem and ETH Zurich's outsized role in it—where research excellence, entrepreneurial density, and investor discipline converge.
+    </td>
+    <td width="30%" align="center">
+      <i>Startup Ecosystem</i><br>2025
+    </td>
+  </tr>
+  <tr>
+    <td width="70%">
+      <a href="/analyses/full-stack-trajectory" target="_blank"><b>The AI Stack 2030: From Silicon to AI Agents</b></a><br>
+      A full-stack, forward-looking thesis on where AI is headed—from compute hardware and model architectures to agentic apps and industry disruption.
+    </td>
+    <td width="30%" align="center">
+      <i>AI Future</i><br>2025
+    </td>
+  </tr>
+</table>
+
+---
+
+## Awards & Recognition
+
+<table>
+  <tr>
+    <td width="20%" align="center"><img src="https://shaswat-g.github.io/assets/images/cv/iitb.png" height="40" alt="IIT Bombay"/></td>
+    <td width="30%"><b>Department Rank 1 & Gold Medalist</b><br>IIT Bombay</td>
+    <td width="50%">Graduated with highest CGPA in Mechanical Engineering (9.6/10)</td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><img src="https://shaswat-g.github.io/assets/images/cv/mahindra.png" height="40" alt="KC Mahindra"/></td>
+    <td width="30%"><b>KC Mahindra Scholarship</b><br>ETH Zurich</td>
+    <td width="50%">Prestigious scholarship for meritorious Indian students pursuing graduate studies abroad</td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><img src="https://shaswat-g.github.io/assets/images/cv/heyning.png" height="40" alt="Heyning-Roelli"/></td>
+    <td width="30%"><b>Heyning-Roelli Scholarship</b><br>ETH Zurich</td>
+    <td width="50%">Merit and need-based international exchange scholarship</td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><img src="https://shaswat-g.github.io/assets/images/cv/mensa.png" height="40" alt="Mensa"/></td>
+    <td width="30%"><b>Mensa International High IQ Society</b></td>
+    <td width="50%">Member of the high IQ society since 2025</td>
+  </tr>
+</table>
+
+> <i>"Shaswat consistently demonstrates exceptional problem-solving abilities and technical depth. His thoughtful approach to engineering challenges and ability to communicate complex concepts make him a standout talent."</i> — <b>Prof. Julia Vogt, Medical Data Science Group, ETH Zurich</b>
+
+---
+
+## Engineering Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaswat-G&show_icons=true&hide_title=true&hide_rank=true&hide=prs&theme=default" height="120"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaswat-G&theme=default" height="120"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shaswat-G&style=flat-square" alt="visitors" height="25"/>
+  <a href="https://github.com/Shaswat-G?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/Shaswat-G" alt="repos" height="25"/>
+  </a>
+</p>
+
+---
+
+## Get In Touch
+
+<p align="center">
+  <a href="mailto:shagupta@ethz.ch"><img src="https://img.shields.io/badge/Email-shagupta@ethz.ch-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shaswat-gupta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Shaswat-G" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <i>Open to research, quant, and ML engineering roles</i><br>
+  <b>Based in Zurich, Switzerland</b>
+</p>
+
+---
+
+<details>
+<summary><b>More About Me</b></summary>
+
+- MSc Computer Science @ ETH Zurich (Machine Intelligence & Data Management Systems)
+- 💼 Currently: Research Assistant at ETH Zurich, developing optimization models and data pipelines
+- 🌏 International experience: Switzerland, India, collaborations across Europe and North America
+- 🗣️ Public speaker, published author, and technical mentor
+- 🏗️ Building production-grade systems that bridge research and industry application
+- 🔍 Research interests: Self-supervised learning, time series analysis, optimization, edge AI
+
+</details>
