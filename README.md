@@ -72,15 +72,19 @@
   </tr>
 </table>
 
-### Project Architecture Highlights
+<details>
+<summary><i>Project Architecture Highlights</i></summary>
 
 <p align="center">
   <img src="https://shaswat-g.github.io/assets/images/projects/simplesleepnet-architecture.svg" alt="SimpleSleepNet Architecture" width="80%" style="max-width:800px"/>
 </p>
 
+</details>
+
 ---
 
-## Featured Publications & Articles
+<details>
+<summary><b>Featured Publications & Articles</b></summary>
 
 <p align="center">
   <a href="/analyses/" class="btn btn--primary">View All Publications</a>
@@ -134,9 +138,12 @@
   </tr>
 </table>
 
+</details>
+
 ---
 
-## Awards & Recognition
+<details>
+<summary><b>Awards & Recognition</b></summary>
 
 <table>
   <tr>
@@ -162,6 +169,8 @@
 </table>
 
 > <i>"I had the opportunity to work closely with Shaswat and was consistently impressed by his technical depth and problem-solving skills."</i> — <b>Tomoko Yokoi, AI & Digital Transformation | Transitions | Future of Work</b>
+
+</details>
 
 ---
 
@@ -198,7 +207,8 @@
 
 ---
 
-## Courses & Resources
+<details>
+<summary><b>Curated Courses</b></summary>
 
 Access curated notes, course materials, and resources—my way of giving back to the community.
 
@@ -214,10 +224,12 @@ Access curated notes, course materials, and resources—my way of giving back to
   </a>
 </p>
 
+</details>
+
 ---
 
 <details>
-<summary><b>More About Me</b></summary>
+<summary><b>Curious? More About Me</b></summary>
 
 - MSc Computer Science @ ETH Zurich (Machine Intelligence & Data Management Systems)
 - 💼 Currently: Research Assistant at ETH Zurich, developing optimization models and data pipelines
