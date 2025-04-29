@@ -177,7 +177,7 @@
 ## Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaswat-G&show_icons=true&hide_title=true&hide_rank=true&hide=prs&theme=default" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaswat-G&show_icons=true&hide_title=true&hide_rank=true&theme=default" height="120"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaswat-G&theme=default" height="120"/>
 </p>
 
