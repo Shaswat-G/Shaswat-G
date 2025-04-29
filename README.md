@@ -198,11 +198,6 @@
   <a href="mailto:shagupta@ethz.ch"><img src="https://img.shields.io/badge/Email-shagupta@ethz.ch-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <i>Open to ML engineering and research roles</i><br>
-  <b>Based in Zurich, Switzerland</b>
-</p>
-
 > <i>"I've had the privilege of working closely with Shaswat and can unequivocally state that his ability to dissect and solve complex problems is second to none."</i> — <b>Alex Biermann, Senior Manager - Supply Chain Transformation</b>
 
 ---
