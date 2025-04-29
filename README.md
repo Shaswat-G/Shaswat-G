@@ -198,6 +198,24 @@
 
 ---
 
+## Courses & Resources
+
+Access curated notes, course materials, and resources—my way of giving back to the community.
+
+<p align="center">
+  <a href="https://shaswat-g.github.io/courses/python_engineering" target="_blank">
+    <img src="https://Shaswat-G.github.io/assets/images/courses/python.jpeg" alt="Python Engineering Mastery" width="200" style="margin: 10px; border-radius: 0.5em;">
+  </a>
+  <a href="https://shaswat-g.github.io/courses/git_version_control" target="_blank">
+    <img src="https://Shaswat-G.github.io/assets/images/courses/github.jpeg" alt="Git and Version Control" width="200" style="margin: 10px; border-radius: 0.5em;">
+  </a>
+  <a href="https://shaswat-g.github.io/courses/vs_code_efficiency" target="_blank">
+    <img src="https://Shaswat-G.github.io/assets/images/courses/vscode.jpeg" alt="VS Code Mastery" width="200" style="margin: 10px; border-radius: 0.5em;">
+  </a>
+</p>
+
+---
+
 <details>
 <summary><b>More About Me</b></summary>
 
